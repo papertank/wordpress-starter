@@ -1,0 +1,14 @@
+!.gitignore
+.idea/
+.sass-cache/
+Thumbs.db
+.DS_Store
+wp-config.php
+/wp/*
+!/wp/wp-content
+/wp/wp-content/*
+!/wp/wp-content/maintenance.php
+!/wp/wp-content/themes
+/wp/wp-content/themes/*
+!/wp/wp-content/themes/custom
+!/wp/wp-content/mu-plugins
